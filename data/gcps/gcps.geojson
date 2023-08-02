@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25829" } },
+"features": [
+{ "type": "Feature", "properties": { "X": 517049.553, "Y": 4644864.872, "Z": 67.339, "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 517049.553000125277322, 4644864.871883562766016, 67.339 ] } },
+{ "type": "Feature", "properties": { "X": 517032.244, "Y": 4644866.78, "Z": 67.614, "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 517032.244000125094317, 4644866.779883559793234, 67.614 ] } },
+{ "type": "Feature", "properties": { "X": 517016.261, "Y": 4644821.723, "Z": 73.074, "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 517016.261000124912243, 4644821.722883561626077, 73.074 ] } },
+{ "type": "Feature", "properties": { "X": 516989.999, "Y": 4644748.389, "Z": 73.496, "id": 4 }, "geometry": { "type": "Point", "coordinates": [ 516989.999000124807935, 4644748.388883562758565, 73.496 ] } },
+{ "type": "Feature", "properties": { "X": 516975.677, "Y": 4644754.699, "Z": 74.266, "id": 5 }, "geometry": { "type": "Point", "coordinates": [ 516975.677000124647748, 4644754.698883562348783, 74.266 ] } },
+{ "type": "Feature", "properties": { "X": 517007.615, "Y": 4644821.808, "Z": 73.582, "id": 6 }, "geometry": { "type": "Point", "coordinates": [ 517007.615000124904327, 4644821.807883559726179, 73.582 ] } },
+{ "type": "Feature", "properties": { "X": 517014.082, "Y": 4644801.275, "Z": 73.185, "id": 7 }, "geometry": { "type": "Point", "coordinates": [ 517014.082000124908518, 4644801.27488356269896, 73.185 ] } }
+]
+}
